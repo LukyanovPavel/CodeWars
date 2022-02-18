@@ -125,3 +125,12 @@ function bmi(weight, height) {
         return "Obese";
     }
 }
+
+//21 BASIC: String repeat
+function repeatStr (n, s) {
+    return '';
+}
+
+
+
+
